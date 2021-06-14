@@ -7,6 +7,7 @@
 * [Deploy a Node](beginner-plebs/deploy-a-node.md)
 * [Open Some Channels](beginner-plebs/open-some-channels.md)
 * [Housekeeping](beginner-plebs/housekeeping.md)
+* [Test Import](beginner-plebs/test-import.md)
 
 ## Intermediate Plebs
 
