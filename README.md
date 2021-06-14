@@ -1,4 +1,4 @@
-# Welcome to the PLEBNET wiki!
+# Welcome to the PLEBNET
 
 PLEBNET discussion and coordination happens on the Telegram chat platform.
 

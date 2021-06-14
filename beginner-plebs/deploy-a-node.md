@@ -15,6 +15,18 @@ A Telegram bot that will allow you to join and interact with the PLEBNET.
 
 You'll want to send a message to `@cheeserobot` to claim and add your node. Start with `/claim` and follow the instructions to get add your node id. Then, in the PLEBNET channel, use `/id@cheeserobot` to get yourself added to the graph.
 
+To claim your node: 
+
+1. go to @cheeserobot \(click on the name\)
+2. go to RTL and copy your nodeID pubkey
+3. type `/claim` your-nodeid
+4. you will receive a message to be signed, copy it
+5. then sign that message using RTL - sign/verify
+6. copy the signature
+7. then go back to bot and type `/claim <nodeid> <signature>`
+8. come to the group and type `/node` 
+9. Done 🎉
+
 ### Let's Get Personal
 
 #### How to Set an Alias and Color for Your Node

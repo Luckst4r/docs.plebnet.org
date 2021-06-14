@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to the PLEBNET wiki!](README.md)
+* [Welcome to the PLEBNET](README.md)
 
 ## Beginner Plebs
 
@@ -13,6 +13,4 @@
 
 * [Backup Power](intermediate-plebs/backup-power.md)
 * [Node Monitoring](intermediate-plebs/node-monitoring.md)
-
-## Advanced Plebs
 
