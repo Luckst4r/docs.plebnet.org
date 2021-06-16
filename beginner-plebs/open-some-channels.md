@@ -6,6 +6,10 @@
 
 Generate a Lightning wallet and add some funds so that you can open channels. Keep in mind that PLEBNET prefers girthy channels, so fund your node accordingly.
 
+#### Decide On A Channel Opening Strategy
+
+Watch [\(428\) \#82: Lightning Routing w/@beeforbitcoin1 - YouTube](https://www.youtube.com/watch?v=qnj-ix45tVw)
+
 #### Find nodes in PLEBNET Telegram group
 
 You'll need to find some other nodes in PLEBNET to open channels with.

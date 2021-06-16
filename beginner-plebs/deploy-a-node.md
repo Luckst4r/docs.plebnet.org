@@ -4,8 +4,10 @@ There's several newbie options for getting a Lightning node set up and running.
 
 * [Umbrel](https://getumbrel.com/) is a newbie-friendly package that runs on Raspberry Pi v4+
   * [BTC SESSIONS](https://youtu.be/fppmhqjqh2E) has a good video walkthrough for getting started with Raspberry Pi and Umbrel
-* [RaspbiBlitz](https://github.com/rootzoll/raspiblitz) is another option for Raspberry Pi
+* [RaspbiBlitz](https://github.com/rootzoll/raspiblitz) is another option for Raspberry Pi v4+
+  * also includes a screen, not quite as turn-key as Umbrel \(probably more secure though\)
 * [Start9](https://start9.com/) is an all-in-one option that includes the necessary hardware
+  * no-assembly required, and it includes a bunch of personal data sovereignty apps, but you pay extra for those features
 * [myNode](https://www.mynodebtc.com/) is another all-in-one with hardware
 * [RaspiBolt](https://stadicus.github.io/RaspiBolt/) has some good information on how to set up the necessary services manually
 
